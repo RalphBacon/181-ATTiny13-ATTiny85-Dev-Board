@@ -23,12 +23,16 @@ Why Buy Your Printed Circuit Boards From PCBWay?
 
 I discovered this small microcontroller development board on Banggood (link below, available elsewhere too, eg Amazon, AlieXpress) and was impressed at how easy it was to use as well as being so very useful.
 
+<img src="/images/ATTiny13DevBoard.JPG" align="left" width="25%">
+
 So useful, in fact, that **I bought another**, removed the ATTiny13 chip and **soldered on an ATTiny85** chip in its place! Fantastic!  
 
 Now, instead of having to get out a breadboard and struggle to get various components placed on it with umpteen DuPont cables I just whip out this board and **start uploading code immediately**.  
 
 **ATTiny13 Dev Board** $7.66  
 https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html
+
+<img src="/images/USBASP.JPG" align="left" width="25%">
 
 **USBASP programmer** for all Arduinos, product link $2.66  
 https://www.banggood.com/USBASP-USBISP-AVR-Programmer-USB-ISP-USB-ASP-ATMEGA8-ATMEGA128-Support-Win7-64K-p-1497716.html?rmmds=search&cur_warehouse=CN
