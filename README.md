@@ -1,9 +1,9 @@
 # 181 ATTiny13/ATTiny85 Dev Board
-#181 ATTiny13/85 Development board
-A small development board for the ATTiny13 (and you can easily substitute an ATTiny85) for initial R&D.
-
+### A small development board for the ATTiny13 (and you can easily substitute an ATTiny85) for initial R&D.
 ```
- https://www.pcbway.com  
+FIVE PCBs for $5 https://www.pcbway.com
+Good news that orders for PCB, SMT and Stencil with all options are acceptable now. Now PCB orders can basically achieve 1 days for prototype and 4-5 days for small batches.
+Learn more details and real-time update >> https://www.pcbway.com/blog/News/Real_time_updates_of_production_during_the_epidemic.html
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
 
 Why Buy Your Printed Circuit Boards From PCBWay?  
@@ -18,37 +18,37 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Chief PCB Manufacturer Located in China 
 ```
 
-I discovered this board on Banggood (link below, available elsewhere too, eg Amazon, AlieXpress) and was impressed at how easy it was to use as well as being so very useful.
+I discovered this small microcontroller development board on Banggood (link below, available elsewhere too, eg Amazon, AlieXpress) and was impressed at how easy it was to use as well as being so very useful.
 
-So useful, in fact, that I bought another, removed the ATTiny13 chip and soldered on an ATTiny85 chip in its place! Fantastic!
+So useful, in fact, that **I bought another**, removed the ATTiny13 chip and **soldered on an ATTiny85** chip in its place! Fantastic!
 
-Now, instead of having to get out a breadboard and struggle to get various components placed on it with umpteen DuPont cables I just whip out this board and start uploading code immediately.
+Now, instead of having to get out a breadboard and struggle to get various components placed on it with umpteen DuPont cables I just whip out this board and **start uploading code immediately**.  
 
-USBASP programmer for all Arduinos, product link $2.66
+**ATTiny13 Dev Board** $7.66  
+https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html
+
+**USBASP programmer** for all Arduinos, product link $2.66  
 https://www.banggood.com/USBASP-USBISP-AVR-Programmer-USB-ISP-USB-ASP-ATMEGA8-ATMEGA128-Support-Win7-64K-p-1497716.html?rmmds=search&cur_warehouse=CN
 
-USBasp (libusbk) Windows Drivers by Thomas Fischl
-including circuit diagram and full instructions
+USBasp (libusbk) **Windows Driver** by Thomas Fischl  
+including circuit diagram and full instructions  
 https://www.fischl.de/usbasp/
 
-ATTiny13 Dev Board $7.66
-https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html?rmmds=myorder&cur_warehouse=CN
-
-Nerd Ralph touch Switch code
+Nerd Ralph touch Switch code for ATTiny13/85 in just 40bytes  
 https://github.com/nerdralph/nerdralph/blob/master/avr/touch.c
 
-My amended code in GitHub (momentary action)
-https://
+My **amended code** in GitHub (**momentary action**)
+https://github.com/RalphBacon/181-ATTiny13-ATTiny85-Dev-Board
 
-Original Arduino playground Touch Sensor
+Original Arduino playground **Touch Sensor**
 https://playground.arduino.cc/Main/CapacitiveSensor/
 
-Sergiy Gryb's reworked on/off ATTiny85/13 code
+**Sergiy Gryb's reworked on/off ATTiny85/13 code**
 ShaggyDog18 Single-Smart-Button-PowerOnOff-control
 https://github.com/ShaggyDog18/Single-Smart-Button-PowerOnOff-control
 Also add link to previous video
 
-Nerd Ralph PICO core (work in progress)
+Nerd Ralph **PICO core** (work in progress)
 https://github.com/nerdralph/picoCore
 
 ### List of all my videos
