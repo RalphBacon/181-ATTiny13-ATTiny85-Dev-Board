@@ -30,12 +30,12 @@ So useful, in fact, that **I bought another**, removed the ATTiny13 chip and **s
 Now, instead of having to get out a breadboard and struggle to get various components placed on it with umpteen DuPont cables I just whip out this board and **start uploading code immediately**.  
 
 **ATTiny13 Dev Board** $7.66  
-https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html
+https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 <img src="/images/USBASP.JPG" align="left" width="25%">
 
 **USBASP programmer** for all Arduinos, product link $2.66  
-https://www.banggood.com/USBASP-USBISP-AVR-Programmer-USB-ISP-USB-ASP-ATMEGA8-ATMEGA128-Support-Win7-64K-p-1497716.html?rmmds=search&cur_warehouse=CN  
+https://www.banggood.com/USBASP-USBISP-AVR-Programmer-USB-ISP-USB-ASP-ATMEGA8-ATMEGA128-Support-Win7-64K-p-1497716.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
 USBasp (libusbk) **Windows Driver** by Thomas Fischl  
 including circuit diagram and full instructions  
@@ -44,7 +44,7 @@ https://www.fischl.de/usbasp/
 <img src="/images/10PINADAPTER.JPG" align="left" width="25%">  
 
 **10 Pin To 6 Pin Adapter** Board Connector For Arduino connection $1.41  
-https://www.banggood.com/10-Pin-To-6-Pin-Adapter-Board-Connector-For-ISP-Interface-Converter-AVR-AVRISP-USBASP-STK500-Standard-p-1413166.html  
+https://www.banggood.com/10-Pin-To-6-Pin-Adapter-Board-Connector-For-ISP-Interface-Converter-AVR-AVRISP-USBASP-STK500-Standard-p-1413166.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
 Nerd Ralph touch Switch code for ATTiny13/85 in just 40bytes  
 https://github.com/nerdralph/nerdralph/blob/master/avr/touch.c
