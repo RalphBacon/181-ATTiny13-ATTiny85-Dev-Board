@@ -52,10 +52,12 @@ https://www.fischl.de/usbasp/
 **10 Pin To 6 Pin Adapter** Board Connector For Arduino connection $1.41  
 https://www.banggood.com/10-Pin-To-6-Pin-Adapter-Board-Connector-For-ISP-Interface-Converter-AVR-AVRISP-USBASP-STK500-Standard-p-1413166.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
-Nerd Ralph touch Switch code for ATTiny13/85 in just 40bytes  
+#### OTHER STUFF mentioned in the video
+
+Nerd Ralph's amazing touch Switch code for ATTiny13/85 in just 40 bytes  
 https://github.com/nerdralph/nerdralph/blob/master/avr/touch.c
 
-My **amended code** in GitHub (**momentary action**)  
+My **amended code** of Nerd Ralph's in my GitHub (**momentary action** instead of toggle)  
 https://github.com/RalphBacon/181-ATTiny13-ATTiny85-Dev-Board  
 
 Original Arduino playground **Touch Sensor**  
