@@ -1,7 +1,7 @@
 # 181 ATTiny13/ATTiny85 Dev Board
-## See video https://youtu.be/7Tl8l0PliTk #181
+## See video #181 https://youtu.be/7Tl8l0PliTk 
 
-### A small development board for the ATTiny13 (and you can easily substitute an ATTiny85) for initial R&D.  
+### A small development board for the ATTiny13 (and ATTiny85) for initial R&D.  
 
 #### FIVE PCBs for $5 https://www.pcbway.com   
 **Free face masks** can be redeemed for our customers, we are here with PCBWayers.  
@@ -27,7 +27,7 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Chief PCB Manufacturer Located in China 
 ```
 
-I discovered this small microcontroller development board on Banggood (link below, available elsewhere too, eg Amazon, AlieXpress) and was impressed at how easy it was to use as well as being so very useful.
+I discovered this **small microcontroller development board** on Banggood (link below, available elsewhere too, eg Amazon, AlieXpress) and was impressed at how easy it was to use as well as being so very useful.
 
 <img src="/images/ATTiny13DevBoard.JPG" align="left" width="25%">
 
