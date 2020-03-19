@@ -47,7 +47,7 @@ USBasp (libusbk) **Windows Driver** by Thomas Fischl
 including circuit diagram and full instructions  
 https://www.fischl.de/usbasp/
 
-<img src="/images/10PINADAPTER.JPG" align="left" width="25%">  
+<img src="/images/10PINADAPTER.JPG" style="margin-top:30px" align="left" width="25%">  
 
 **10 Pin To 6 Pin Adapter** Board Connector For Arduino connection $1.41  
 https://www.banggood.com/10-Pin-To-6-Pin-Adapter-Board-Connector-For-ISP-Interface-Converter-AVR-AVRISP-USBASP-STK500-Standard-p-1413166.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
