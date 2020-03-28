@@ -68,7 +68,6 @@ https://playground.arduino.cc/Main/CapacitiveSensor/
 **Sergiy Gryb's reworked on/off ATTiny85/13 code**  
 ShaggyDog18 Single-Smart-Button-PowerOnOff-control  
 https://github.com/ShaggyDog18/Single-Smart-Button-PowerOnOff-control
-Also add link to previous video
 
 Nerd Ralph **PICO core** (work in progress)  
 https://github.com/nerdralph/picoCore
